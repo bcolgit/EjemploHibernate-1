@@ -34,7 +34,7 @@ public class UsuarioView {
 
 	private static void opcionSeleccionada(Opciones opcion) {
 		switch (opcion) {
-		case C:
+		case C: 
 			System.out.print(crearUsuario());
 			break;
 		case R:
