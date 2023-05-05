@@ -38,12 +38,7 @@ CREATE TABLE `usuarios` (
 -- Volcado de datos para la tabla `usuarios`
 --
 
-INSERT INTO `usuarios` (`id`, `nombre`, `apellido`, `direccion`) VALUES
-(4, 'Luis Alberto', 'Avila Gutierrez', 'calle 123');
-
---
--- Índices para tablas volcadas
---
+ 
 
 --
 -- Indices de la tabla `usuarios`
